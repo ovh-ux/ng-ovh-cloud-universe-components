@@ -32,7 +32,7 @@
     "postversion": "git push && git push --tags"
   },
   "dependencies": {
-    "bootstrap": "~3.3.0",
+    "bootstrap": "~3.4.1",
     "jsurl": "^0.1.5",
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
